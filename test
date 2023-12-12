@@ -1,0 +1,42 @@
+<div class="modal fade" id="subscribe" tabindex="-1" role="dialog" aria-hidden="true">
+		<div class="modal-dialog" role="document" data-dismiss="modal">
+			<div class="modal-subscribe where1-parent bg0 bor2 size4 p-t-54 p-b-100 p-l-15 p-r-15">
+				<button class="btn-close-modal how-btn2 fs-26 where1 trans-04">
+					<i class="zmdi zmdi-close"></i>
+				</button>
+
+				<div class="wsize1 m-lr-auto">
+					<h3 class="m1-txt1 txt-center p-b-36">
+						<span class="bor1 p-b-6">Get Access</span>
+					</h3>
+
+					<p class="m1-txt2 txt-center p-b-40">
+						phase 1 : only first 100 lucky people allowed.
+					</p>
+
+					<form class="contact100-form validate-form"
+						action="https://gmail.us21.list-manage.com/subscribe/post?u=bd9f381873f0b14c9d26337c4&amp;id=594bbedc8b&amp;f_id=00ee63e1f0"
+						method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+						target="_blank">
+
+						<div class="wrap-input100 m-b-20 validate-input" data-validate="Email is required: ex@abc.xyz">
+							<input class="s1-txt4 placeholder0 input100" type="text" name="EMAIL" placeholder="Email">
+							<span class="focus-input100"></span>
+						</div>
+
+						<div class="w-full">
+							<!-- <button class="flex-c-m s1-txt2 size5 how-btn1 trans-04" >
+								Get Updates
+							</button> -->
+
+
+							<button class="flex-c-m s1-txt2 size5 how-btn1 trans-04" type="submit" name="subscribe" value="Subscribe">
+							Be the First one.
+							</button>
+							<div class="response" id="mce-success-response" style="display: none;"></div>
+						</div>
+					</form>
+
+				</div>
+
+	</div>
